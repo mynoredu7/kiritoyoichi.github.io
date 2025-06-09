@@ -1,0 +1,81 @@
+ body {
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      margin: 0; padding: 0;
+      color: #333;
+ }
+  header {
+      background-color: #007acc;
+      color: white;
+      padding: 25px;
+      text-align: center;
+      opacity: 70%
+
+      
+    }
+
+
+ section {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: rgb(207, 198, 198);
+      border-radius: 60px;
+      opacity: 80%;
+      
+      
+      
+    }
+
+     footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #007acc;
+      color: white;
+      margin-top: 40px;
+    }
+
+    .foto-perfil {
+      max-width: 150px;
+      border-radius: 15%;
+      display: block;
+      margin: 0 auto 20px;
+    }
+
+     
+ body {
+      background-image: url(Soft.webp);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+  
+    }
+    
+  #listas ul li {
+  margin-bottom: 20px;
+    cursor: pointer;
+    
+}
+
+ #Tabla table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    max-width: 400px;
+  }
+
+  .proyectos ul li {
+  margin-bottom: 15px; 
+}
+
+body {
+  font-size: 20px;
+}
+
+a {
+   text-decoration: none;
+    color: rgb(50, 120, 211);  
+     padding: 4px 8px; 
+       transition: background-color 0.3s ease, color 0.3s ease;
+        border-radius: 4px;
+          width: 100%;
+}
